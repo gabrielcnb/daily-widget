@@ -8,7 +8,7 @@ Minimal Windows 11-style desktop widget with live weather, to-do list, and daily
 - Persistent to-do list stored locally as JSON
 - Daily motivational quote, randomly selected at startup
 - Daily habit reminder, randomly selected at startup
-- Windows 11 color palette — clean, card-based layout
+- Windows 11 color palette with a card-based layout
 - Configurable city and country via `data/config.json`
 - Windows autostart support via startup folder shortcut
 - Draggable window, ESC to close
